@@ -17,21 +17,13 @@
 
 ---
 
-## 🖉 Contract Flow Diagram
-
-![NFT Marketplace Flow Diagram](diagrams/nft_marketplace_flow.png)
-
----
-
 ## 📄 Deployed Contract
 
-| 🔧 Item                    | 📋 Description                                          |
-| -------------------------- | ------------------------------------------------------- |
-| **Contract Name**          | `NFTMarketplace`                                        |
-| **Deployed Network**       | Local / Foundry                                         |
-| **Contract Address**       | *No address available (not deployed to public network)* |
-| **Verified on Explorer**   | ❌ No                                                    |
-| **Constructor Parameters** | None                                                    |
+| 🔧 Item                    | 📋 Description   |
+| -------------------------- | ---------------- |
+| **Contract Name**          | `NFTMarketplace` |
+| **Deployed Network**       | Local / Foundry  |
+| **Constructor Parameters** | None             |
 
 ---
 
